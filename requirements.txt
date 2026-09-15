@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+osmnx
+overpy
+jupyter
