@@ -40,3 +40,4 @@ dist/
 # Cache
 .pytest_cache/
 .mypy_cache/
+data/*.csv
