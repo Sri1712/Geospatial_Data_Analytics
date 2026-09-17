@@ -25,7 +25,7 @@ Thumbs.db
 .vscode/
 
 # Data files
-data/raw/*
+data/*.csv
 data/processed/*
 
 # Temporary files
