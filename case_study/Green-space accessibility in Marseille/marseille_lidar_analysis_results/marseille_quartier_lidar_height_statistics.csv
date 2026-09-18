@@ -1,4 +1,4 @@
-code_qua,nom,NOM_CO,area_sq_km,tree_count,trees_per_sq_km,mean_height_m,median_height_m,p10_height_m,p90_height_m,min_height_m,max_height_m,std_height_m
+code_qua,nom,NOM_CO,area_sq_km,lidar_point_count,points_per_sq_km,mean_height_m,median_height_m,p10_height_m,p90_height_m,min_height_m,max_height_m,std_height_m
 1320103,Noailles,Marseille 1er Arrondissement,0.1494330563775979,68,455.05326363781813,12.934411764705882,13.51,5.537,16.866,4.81,21.85,4.052568517510007
 1320605,Préfecture,Marseille 6e Arrondissement,0.2099870380988437,203,966.7263362438838,11.950541871921182,12.55,4.92,18.240000000000002,2.03,24.95,5.101205856468622
 1320102,Le Chapitre,Marseille 1er Arrondissement,0.23807746398437515,341,1432.3069235246037,12.47533724340176,12.28,6.85,17.41,1.58,37.13,4.856893550353126
